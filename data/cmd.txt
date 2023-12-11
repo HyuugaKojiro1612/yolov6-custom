@@ -1,0 +1,1 @@
+python tools/train.py --batch 32 --conf configs/yolov6s.py --epochs 1 --img-size 416 --data data/data.yaml --device 0 
